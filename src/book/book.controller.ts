@@ -1,4 +1,4 @@
-pimport {
+import {
   Controller,
   Get,
   Post,
